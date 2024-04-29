@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "stdio.h": "c",
+        "exo2_fusionner.C": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "disabled"
+}
